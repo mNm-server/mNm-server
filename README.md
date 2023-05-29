@@ -1,9 +1,8 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M2LQLBM)
 
-- 📫 How to reach me: ...
-Discord: https://discord.gg/nDXSFDYJEN
+- 📫 How to reach me: ...<br /> Discord: https://discord.gg/nDXSFDYJEN
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...<br />
 Crossroads: https://discord.gg/crossroad
 
 <!--
