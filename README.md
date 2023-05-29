@@ -8,7 +8,7 @@ Crossroads: https://discord.gg/crossroad
 <br />
 My Stats: <br />
 
-[![Illmat1c's GitHub stats](https://github-readme-stats.vercel.app/api?username=mNm-server)](https://github.com/anuraghazra/github-readme-stats)
+[![Illmat1c's GitHub stats](https://github-readme-stats.vercel.app/api?username=mNm-server)]
 
 <!--
 **mNm-server/mNm-server** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
