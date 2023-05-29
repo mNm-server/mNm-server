@@ -6,7 +6,8 @@
 Crossroads: https://discord.gg/crossroad
 
 <br />
-My Stats:
+My Stats: <br />
+
 [![Illmat1c's GitHub stats](https://github-readme-stats.vercel.app/api?username=mNm-server)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
