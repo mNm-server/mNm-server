@@ -1,5 +1,3 @@
-#Illmat1c's Bio
-
 🤝 How to support me:<br /> 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M2LQLBM)
 
